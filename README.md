@@ -10,3 +10,4 @@ Este proyecto puede ser utilizado como punto de partida para desarrollos más co
 
 Ejecución del Proyecto
 Para ejecutar el proyecto, simplemente corre el archivo main.py. No requiere configuraciones adicionales de base de datos o frontend.
+ES UN BUEN CODIGO DE PUNTO DE PARTIDA SI NO TIENES IDEA DE UN INVENTARIO! SUERTE SI LO QUIERES USAR, MEJORAR U ACTUALIZAR
